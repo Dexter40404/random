@@ -1,0 +1,5 @@
+['- keter duty', 'consideration of upgrading scp-009 to keter class under review.']
+total words: 2
+['- keter duty']
+total words: 1
+total words: 49
