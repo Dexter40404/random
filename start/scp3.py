@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 url_list = []
 
-for i in range(700, 800):
+for i in range(1, 8000):
     url_list.append('https://scp-wiki.wikidot.com/scp-' + str('{0:0>3}'.format(i)))
 
 # the_word = input()
