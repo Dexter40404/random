@@ -3,3 +3,4 @@ with open("output.txt", "r", encoding='utf-8') as file:
         pass
 # I'd love to sum all total words in output.txt file because server kicks me out after +- 1000 (can't blame them) joined urls, but I cant
 #find the right way to isolate numbers from the file and sum them.
+#I thought the code for this would be somewhat like this, I tried a lot of options but still can't isolate the numbers
